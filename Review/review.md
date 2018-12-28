@@ -69,7 +69,7 @@ Understanding the basics of virtualization and what it means to run virtual mach
 
 ### Local Virtual Machines How-To's
 
-It is recommended that you understand how to create a virtual machine on your laptop. I would recommend creating an Ubuntu 18.04 Desktop VM to ensure you are familiar with the Bash shell. Mac users may want to additionaly create a Windows VM to learn PowerShell.
+It is recommended that you understand how to create a virtual machine on your laptop. I would recommend creating an Ubuntu 18.04 Desktop VM to ensure you are familiar with the Bash shell. Mac users may want to additionally create a Windows VM to learn PowerShell.
 
 - VMware Workstation (Windows) or Fusion (Mac) can be acquired for free by logging into [my.ischool.syr.edu](https://my.ischool.syr.edu/), then navigating to 'Download Software', then clicking on the VMware logo.
 - [VirtualBox](https://www.virtualbox.org/) is an OpenSource alternative for running local VM's
