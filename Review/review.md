@@ -79,6 +79,8 @@ It is recommended that you understand how to create a virtual machine on your la
 
 A basic understanding of how developers develop, deploy and run software in containers will give you a head start on a number of topics we'll discuss this semester.
 
+It is recommended that you read this [overview of Docker](https://docs.docker.com/engine/docker-overview/) and then work through this [orientation of Docker](https://docs.docker.com/get-started/).
+
 ## Connecting to the ITELL environment
 
 The iSchool maintains a private cloud, leveraging VMware solutions, to host virtual machines for curricular use. Each student will be provisioned virtual machines which can be used to practice skills and concepts throughout the semester.
@@ -100,4 +102,4 @@ Username: `TDB`  Password: `TBD`
 7. How do you use the help commands in the Linux and Windows consoles?
 8. What command do you use to display the location you are running your commands from?
 9. How do you display the first 10 lines of a file in the shell?
-10. Define what a service is.
+10. What is a NAT?
