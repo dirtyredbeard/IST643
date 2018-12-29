@@ -25,6 +25,7 @@ To ensure that you are familiar with a number of core technologies which are lev
   - [Local Docker Containers How-To's](#local-docker-containers-how-tos)
 - [Connecting to the ITELL environment](#connecting-to-the-itell-environment)
   - [ITELL VM Credentials](#itell-vm-credentials)
+- [Questions](#questions)
 
 ## Command Line Interfaces
 
@@ -87,3 +88,16 @@ Instructions on how to access the ITELL environment from the iSchool labs can be
 ### ITELL VM Credentials
 
 Username: `TDB`  Password: `TBD`
+
+## Questions
+
+1. What is the difference between a virtual machine and a container?
+2. What file does Docker use to determain how Docker containers behave?
+3. What command do you use to initialize a new Git repository?
+4. What Git command would you use to store changes and add a message of what has been changed?
+5. What is multiplexing; specifically what does it do in regards to IP and port numbers?
+6. From a Linux and a Windows shell, what command(s) would you use to take the contents of one file and add them to another?
+7. How do you use the help commands in the Linux and Windows consoles?
+8. What command do you use to display the location you are running your commands from?
+9. How do you display the first 10 lines of a file in the shell?
+10. Define what a service is.
