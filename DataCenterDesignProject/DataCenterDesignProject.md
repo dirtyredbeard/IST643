@@ -21,7 +21,7 @@ This is a research project intended for you to critically think about managing t
 
 ## Scenario / Given Assumptions
 
-- You're an IT management team at a rapidly growing regional for profit technical college.
+- You're an IT management team at a regional for profit technical college.
 - You have an IT staff trained in maintaining the college network and administering workstations.
 - Each student is assigned a desktop costing $1,300.
 - College IT policy is to decommission computing hardware after 4 years.
@@ -29,7 +29,7 @@ This is a research project intended for you to critically think about managing t
 - It has been previously determined that to complete coursework the average student utilized their computing environment for 15 hours\week.
 - The student population is currently 650.
 - Students pays a lab fee of $250 per term.
-- Student population is growing 3% year to year
+- Student population is growing 3% year to year.
 - The college has purchasing agreements with Dell, 25% off web pricing.
 
 ## The Assignment
@@ -42,7 +42,7 @@ We are required to tell the data center operators the following:
 - An estimated power draw for our equipment (in amps)
 - The number of equipment racks required
 
-The college administration is entertaining proposals for how to best use the space. Your CIO would like to propose virtualizing our lab environment --instead of providing physical desktops to students. The CIO has asked you to prepare a presentation and document outlying:
+The college administration is entertaining proposals for how to best use the space. Your CIO would like to propose virtualizing our lab environment --instead of providing physical desktops to students. The CIO has asked you to prepare a presentation and documents outlining:
 
 - Any assumptions made throughout,
 - A viable solution,
@@ -56,7 +56,7 @@ The college administration is entertaining proposals for how to best use the spa
 ## Required Deliverable's
 
 - 10 Slide PowerPoint Presentation, citing references
-- Network topology design file (Microsoft Visio, [Draw.io](https://www.draw.io/), or [Creately](https://creately.com/) recommended)
+- Network topology design (Microsoft Visio, [Draw.io link](https://www.draw.io/), or [Creately link](https://creately.com/) recommended)
 - Data Center Cost Breakdown file (Excel)
 - Executive Summary, outlining your findings and citing references
 
