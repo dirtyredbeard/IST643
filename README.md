@@ -6,4 +6,4 @@ Week 1: Technology Skills Review
 
 Week 2: Data Center Design Project
 
-[Data Center Design Project]()
+[Data Center Design Project](https://github.com/dirtyredbeard/IST643/blob/master/DataCenterDesignProject/DataCenterDesignProject.md)
