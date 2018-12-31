@@ -7,3 +7,7 @@ Week 1: Technology Skills Review
 Week 2 & 4: Data Center Design Project
 
 [Data Center Design Project](https://github.com/dirtyredbeard/IST643/blob/master/DataCenterDesignProject/DataCenterDesignProject.md)
+
+Week 3: Container Management
+
+[Container Management Lab]()
