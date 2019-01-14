@@ -16,4 +16,4 @@ Week 4: Complete Data Center Design Project
 
 Week 5: Domain Services Lab
 
-[Domain Services Lab]()
+[Domain Services Lab](https://github.com/dirtyredbeard/IST643/blob/master/DomainServicesLab/DomainServicesLab.md)
