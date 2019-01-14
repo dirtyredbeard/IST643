@@ -1,0 +1,80 @@
+# Container Management Lab <!-- omit in toc -->
+
+> Estimated Completion Time: 10-15 Hours
+>
+> Due Date: You should have an understanding of these concepts by the end of week 3.
+
+## Learning Objective <!-- omit in toc -->
+
+To garner a deeper understanding of container-based virtualization, the services required to effectively offer a container hosing service\platform, and to sharpen your basic systems administration skills.
+
+In this lab you will:
+
+- create a test\dev Kubernetes cluster
+- setup and configure a Kubernetes management platform
+- begin exploring day-to-day administration\capabilities\implications of these platforms
+- deploy your first workload
+
+## Lab Research: Readings and Videos
+
+Prior to starting this exercise, it is recommended that you familiarize yourself with the technologies we'll be using:
+
+- [Kubernetes](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)
+  - [Interactive Kubernetes Tutorials](https://kubernetes.io/docs/tutorials/kubernetes-basics/) 
+  - [5 minute video explainer](https://www.youtube.com/watch?v=PH-2FfFD2PU)
+  - Kubernetes deep dive videos
+    - [Understanding Kubernetes, Part 1](https://www.youtube.com/watch?v=CuWSY_fwV6M)
+    - [Understanding Kubernetes, Part 2](https://www.youtube.com/watch?v=E3ExWruji7g)
+    - [Understanding Kubernetes, Part 3](https://www.youtube.com/watch?v=BrtvGHwyza0)
+  - We'll be using [Minikube](https://kubernetes.io/docs/setup/minikube/) 
+- [Rancher](https://rancher.com/docs/rancher/v2.x/en/overview/)
+  - [Technical Architecture](https://info.rancher.com/hubfs/eBooks/Rancher%20Architecture%20-%20v2.1.pdf)
+  - [Deploy Rancher via Docker](https://rancher.com/docs/rancher/v2.x/en/quick-start-guide/deployment/quickstart-manual-setup/)
+
+## Lab Exercise
+
+Now that you have thoroughly researched the technologies and have a fundamental understanding of the problems which Kubernetes and Rancher solve...
+
+Lets set up the a test environment to get some experiential knowledge!
+
+### Lab Notes
+
+Within the [ITELL environment](https://answers.syr.edu/x/ZwL-Aw) you will find an Ubuntu Server virtual machine and an Windows 10 virtual machine. The Ubuntu VM is a basic terminal only installation of Ubuntu Server and the Windows 10 installation is a basic installation of Windows 10, with Docker pre-installed.
+
+>Docker takes a minute to get up and running. Before starting any activities, ensure that the Docker service is running.
+
+### Lab Task List
+
+Now that you understand Kubernetes and Rancher, lets set up a Minikube cluster in the Ubuntu Server VM. Once Minikube is configured, deploy the Rancher Kubernetes Management Platform in a Docker container on Windows to manage the cluster. Then lets poke around Rancher and do some administrative tasks.
+
+Below is a list of tasks to guide your efforts:
+
+- [ ] Setup Minikube in the Ubuntu Server
+- [ ] Setup rancher within a docker container on Windows
+- [ ] Configure Rancher to manage the Minikube cluster
+- [ ] Create a Rancher project
+  - [ ] Create a longhorn persistent storage volume for the project
+  - [ ] Create three local users
+  - [ ]  Assign them to the project
+  - [ ]  Assign them different resource quotas
+- [ ]  Deploy an Ubuntu workload within your project
+  - [ ]  Connect to it!
+- [ ]  Use kubectl to list all running containers in Minikube
+
+## Questions
+
+After completing this lab you should be able to answer the following questions:
+
+1. Describe the following Kubernetes\Rancher terms:
+   - A. Container
+   - Node
+   - Pod
+   - Cluster
+   - Deployment
+   - Kubectl
+   - Rancher Cluster Agent
+   - Rancher Node Agent
+   - Workload
+2. How many nodes can Rancher scale to?
+3. In Rancher, what types of workloads are there? Describe them.
+4. What is a persistent volume?

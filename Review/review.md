@@ -93,6 +93,8 @@ Username: `TDB`  Password: `TBD`
 
 ## Questions
 
+After completing this review you should be able to answer the following questions:
+
 1. What is the difference between a virtual machine and a container?
 2. What file does Docker use to determain how Docker containers behave?
 3. What command do you use to initialize a new Git repository?
