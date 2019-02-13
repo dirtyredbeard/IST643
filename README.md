@@ -10,7 +10,7 @@
 
 **Data Center Operations: VMware vSphere**
 
-[VMware vSphere](https://github.com/dirtyredbeard/IST643/blob/master/DataCenterOperations/DataCenterOperations.md)
+[VMware vSphere Walk-throughs](https://github.com/dirtyredbeard/IST643/blob/master/DataCenterOperations/DataCenterOperations.md)
 
 **Container Management**
 
