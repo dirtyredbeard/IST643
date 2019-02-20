@@ -12,6 +12,10 @@
 
 [VMware vSphere Walk-throughs](https://github.com/dirtyredbeard/IST643/blob/master/DataCenterOperations/DataCenterOperations.md)
 
-**Container Management**
+**Container Virtualization Labs**
 
-[Container Management Lab](https://github.com/dirtyredbeard/IST643/blob/master/ContainerManagementLab/ContainerMGMT.md)
+[Kubernetes Lab 1: Two-Tier Application Deployment](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/1.K8sBasicAppDeployments.md)
+
+[Kubernetes Lab 2: Managing Kubernetes](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/2.ManagingKubernetes.md)
+
+[Kubernetes Lab 3: Scalale Deployments]()
