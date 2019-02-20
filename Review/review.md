@@ -89,7 +89,7 @@ Instructions on how to access the ITELL environment from the iSchool labs can be
 
 ### ITELL VM Credentials
 
-Username: `TDB`  Password: `TBD`
+Username: `Localadmin`  Password: `SU44orange!`
 
 ## Questions
 
