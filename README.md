@@ -18,4 +18,4 @@
 
 [Kubernetes Lab 2: Managing Kubernetes](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/2.ManagingKubernetes.md)
 
-[Kubernetes Lab 3: Scalale Deployments]()
+[Kubernetes Lab 3: Development Pipelines Part 1](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/3.DevelopmentPipelinesPart1.md)
