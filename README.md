@@ -21,3 +21,5 @@
 [Kubernetes Lab 3: Development Pipelines Part 1](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/3.DevelopmentPipelinesPart1.md)
 
 [Kubernetes Lab 4: Development Pipelines Part 2](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/DevelopmentPipelinesPart2.md)
+
+[Kubernetes Lab 5: Application Deployment with Helm](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/DevelopmentPipelinesPart2.md)
