@@ -1,4 +1,4 @@
-# Data Center Design Group Project <!-- omit in toc -->
+#CI\CD Lifecycle Group Project <!-- omit in toc -->
 
 > Estimated Completion Time: 40-60 Hours
 > 
