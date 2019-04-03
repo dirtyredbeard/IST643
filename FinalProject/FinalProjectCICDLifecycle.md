@@ -1,10 +1,10 @@
-#CI\CD Lifecycle Group Project <!-- omit in toc -->
+# CI\CD Lifecycle Group Project <!-- omit in toc -->
 
 > Estimated Completion Time: 40-60 Hours
 > 
 > Assignment Value: TBD
 > 
-> Due Date: 
+> Due Date:
 > - In-class project check-up: Weekly
 > - Final Presentation of Work: Last class of the semester
 
