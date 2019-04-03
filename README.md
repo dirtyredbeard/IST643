@@ -23,3 +23,7 @@
 [Kubernetes Lab 4: Development Pipelines Part 2](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/DevelopmentPipelinesPart2.md)
 
 [Kubernetes Lab 5: Application Deployment with Helm](https://github.com/dirtyredbeard/IST643/blob/master/KubernetesLabs/4.Helm.md)
+
+**Final Project: CI\CD Lifecycle**
+
+[Final Project Details](https://github.com/dirtyredbeard/IST643/blob/master/FinalProject/FinalProjectCICDLifecycle.md)
